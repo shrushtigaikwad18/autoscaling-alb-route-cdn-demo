@@ -1,0 +1,8 @@
+{
+  "name": "autoscaling-alb-route-cdn-demo",
+  "version": "1.0.0",
+  "author": "shrushti",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
